@@ -20,8 +20,8 @@ quantitative
 indentation  
 brace   
 arithmetic  
-scalar types
-    
+scalar types    
+Appendix 
 
 
 ### py fun

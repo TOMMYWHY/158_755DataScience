@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83e49288-d57c-4a84-bb3a-7927f1502245" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/158_755DataScience.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/158755/Notebooks/Lecture 1 - Python Introduction A.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/158755/Notebooks/Lecture 1 - Python Introduction A.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture/need.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture/need.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +57,8 @@
       <updated>1582444224133</updated>
       <workItem from="1582444238529" duration="4253000" />
       <workItem from="1582452164569" duration="1503000" />
-      <workItem from="1582509828576" duration="1487000" />
+      <workItem from="1582509828576" duration="1857000" />
+      <workItem from="1582842713301" duration="205000" />
     </task>
     <task id="LOCAL-00001" summary="week1 introduction and python basic">
       <created>1582514711475</created>
@@ -73,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582514711476</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="class review done">
+      <created>1582529712239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582529712239</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,12 +82,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="week1 introduction and python basic" />
-    <option name="LAST_COMMIT_MESSAGE" value="week1 introduction and python basic" />
+    <MESSAGE value="class review done" />
+    <option name="LAST_COMMIT_MESSAGE" value="class review done" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="68" y="148" key="CommitChangelistDialog2" timestamp="1582514710757">
-      <screen x="48" y="23" width="1872" height="1057" />
+    <state x="1935" y="203" key="CommitChangelistDialog2" timestamp="1582529712014">
+      <screen x="1920" y="203" width="1440" height="877" />
     </state>
+    <state x="1935" y="203" key="CommitChangelistDialog2/1920.203.1440.877/47.23.1873.1057@1920.203.1440.877" timestamp="1582529712014" />
     <state x="68" y="148" key="CommitChangelistDialog2/1920.203.1440.877/48.23.1872.1057@1920.203.1440.877" timestamp="1582514710757" />
     <state x="889" y="455" key="Github.ShareDialog" timestamp="1582444553142">
       <screen x="48" y="23" width="1872" height="1057" />
@@ -96,9 +99,10 @@
       <screen x="48" y="23" width="1872" height="1057" />
     </state>
     <state x="786" y="216" key="Github.UntrackedFilesDialog/1920.203.1440.877/48.23.1872.1057@48.23.1872.1057" timestamp="1582444603005" />
-    <state x="2325" y="386" key="Vcs.Push.Dialog.v2" timestamp="1582514742574">
+    <state x="2325" y="386" key="Vcs.Push.Dialog.v2" timestamp="1582529717955">
       <screen x="1920" y="203" width="1440" height="877" />
     </state>
+    <state x="2325" y="386" key="Vcs.Push.Dialog.v2/1920.203.1440.877/47.23.1873.1057@1920.203.1440.877" timestamp="1582529717955" />
     <state x="2325" y="386" key="Vcs.Push.Dialog.v2/1920.203.1440.877/48.23.1872.1057@1920.203.1440.877" timestamp="1582514742574" />
     <state x="575" y="244" key="Vcs.Push.Dialog.v2/1920.203.1440.877/48.23.1872.1057@48.23.1872.1057" timestamp="1582444613735" />
   </component>

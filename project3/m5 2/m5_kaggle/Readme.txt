@@ -1,0 +1,4 @@
+lightGBM:0.22028
+XGBoost:0.22238
+KNN:0.21817
+RandomForest:0.21625
